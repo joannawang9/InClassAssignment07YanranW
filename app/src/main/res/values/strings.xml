@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InClassAssignment07-YanranW</string>
+    <string name="checkbox">Local Brand?</string>
+    <string name="button">submit</string>
+    <string name="hint1">Brand Name</string>
+    <string name="hint2">History</string>
+    <string name="hint3">More Information</string>
+    <string name="addBrand">add brand</string>
+
+</resources>
